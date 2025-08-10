@@ -58,6 +58,9 @@ Python Backend разработчик, изучаю современные те�
 </div>
 
 ## 📫 Связаться со мной
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 <div align="center">
   <a href="https://t.me/ndjdjdjs12">
