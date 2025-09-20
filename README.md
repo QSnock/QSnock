@@ -113,6 +113,39 @@ Python Backend разработчик, изучаю современные те�
 
 ---
 
+### 📋 [Homework TG bot](https://github.com/QSnock/homework-tg_bot)
+[![GitHub](https://img.shields.io/badge/GitHub-6e5494?style=for-the-badge&logo=github&logoColor=white)](https://github.com/QSnock/homework-tg_bot)
+
+**ТГ Бот для уведомлений о статусе проверки домашних работ ревьюером.**
+
+✨ **Особенности:**
+- 📋 Автоматическая проверка статуса домашних работ каждые 10 минут
+- 🖱️ Отправка уведомлений в Telegram при изменении статуса
+- 👥 Обработка ошибок с уведомлением пользователя
+- 🔐 Логирование всех действий для отладки
+
+**🛠️ Технологии:** Python, pyTelegramBotAPI, requests
+
+---
+
+### 📋 [Docker/CI/CD](https://github.com/QSnock/taski-docker)
+[![GitHub](https://img.shields.io/badge/GitHub-6e5494?style=for-the-badge&logo=github&logoColor=white)](https://github.com/QSnock/taski-docker)
+
+**Работа с докером и автоматизацией деплоя и тестирования.**
+
+**🛠️ Технологии:** Docker, docker-compose, git actions
+
+---
+
+### 📋 [Yatube API](https://github.com/QSnock/api-final-yatube)
+[![GitHub](https://img.shields.io/badge/GitHub-6e5494?style=for-the-badge&logo=github&logoColor=white)](https://github.com/QSnock/api-final-yatube)
+
+**Учебный проект - API для социальной сети Yatube: посты, комментарии, подписки, группы. Аутентификация — JWT.**
+
+**🛠️ Технологии:** Python, Django, djangorestframework
+
+---
+
 ### 🐍 [Змейка](https://github.com/QSnock/the_snake)
 [![GitHub](https://img.shields.io/badge/GitHub-6e5494?style=for-the-badge&logo=github&logoColor=white)](https://github.com/QSnock/the_snake)
 
