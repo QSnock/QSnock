@@ -97,7 +97,7 @@ Python Backend разработчик, изучаю современные те�
 ---
 
 ### 📋 [steam-download-monitor](https://github.com/QSnock/steam-download-monitor)
-[![GitHub](https://img.shields.io/badge/GitHub-6e5494?style=for-the-badge&logo=github&logoColor=white)](https://github.com/QSnock/taski-docker)
+[![GitHub](https://img.shields.io/badge/GitHub-6e5494?style=for-the-badge&logo=github&logoColor=white)](https://github.com/QSnock/steam-download-monitor)
 
 **Мониторинг загрузок стим, статус загрузки и скорость загрузки.**
 
